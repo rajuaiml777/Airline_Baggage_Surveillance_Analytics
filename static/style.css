@@ -1,0 +1,49 @@
+/* H1 heading */
+h1 {
+    background-color: #3FB0AC;
+    color: black; /* #FAE596 */
+}
+/* H2 heading */
+h2 {
+    background-color: #3FB0AC;
+    color: black; /* #FAE596 */
+    font-weight: bold;
+}
+/* H3 heading */
+h3 {
+    background-color: #3FB0AC;
+    color: black; /* #FAE596 */
+    font-weight: bold;
+}
+/* Side-Bar */
+.css-hby737 {
+    background-color: #3FB0AC;
+}
+/* Main Body */
+.css-ffhzg2{
+    background: #173E42;
+}
+/* Option Titles */
+.css-1d81imo {
+    font-size: 0.9rem;
+    color: white;
+}
+/* Button */
+div.stButton > button:hover{
+              color: black;
+              cursor: pointer;
+}
+div.stButton > button:first-child{
+                  background-color: #F63366;
+}
+code {
+    color: white;
+}
+/* Options Text */
+.st-br {
+    color: #FAE596;
+}
+/* Sidebar Options */
+.st-bw {
+    background-color: rgb(49, 51, 63);
+}

@@ -1,0 +1,244 @@
+L3_LoginID,L3_Decision,L3_Decision_Count
+1805,Accept,479
+1805,Reject,169
+1805,Time out,2
+1985,Accept,2098
+1985,Reject,2044
+1985,Time out,32
+2000,Reject,2
+2250,Accept,987
+2250,Reject,308
+2250,Time out,7
+2918,Accept,1751
+2918,Reject,1180
+2918,Time out,47
+2927,Accept,1392
+2927,Reject,402
+2927,Time out,7
+3000,Reject,1
+4118,Accept,364
+4118,Reject,120
+4118,Time out,12
+4121,Accept,821
+4121,Reject,124
+4121,Time out,2
+4123,Reject,3119
+4123,Accept,1904
+4123,Time out,79
+4130,Reject,682
+4130,Accept,369
+4130,Time out,42
+4218,Accept,2846
+4218,Reject,803
+4218,Time out,3
+4226,Accept,585
+4226,Reject,136
+4226,Time out,13
+4227,Reject,35
+4227,Accept,13
+4227,Time out,2
+4228,Accept,1709
+4228,Reject,1238
+4228,Time out,97
+4345,Accept,2
+4402,Accept,542
+4402,Reject,431
+4402,Time out,7
+4443,Accept,1027
+4443,Reject,344
+4443,Time out,24
+4445,Accept,86
+4445,Reject,10
+4447,Accept,3465
+4447,Reject,1166
+4447,Time out,73
+4463,Reject,587
+4463,Accept,247
+4463,Time out,27
+4703,Accept,2087
+4703,Reject,242
+5093,Accept,1242
+5093,Reject,243
+5093,Time out,12
+5525,Accept,1700
+5525,Reject,831
+5525,Time out,116
+5531,Accept,1872
+5531,Reject,894
+5531,Time out,40
+5554,Accept,261
+5554,Reject,236
+5554,Time out,4
+5581,Accept,744
+5581,Reject,299
+5581,Time out,22
+5944,Accept,4746
+5944,Reject,2209
+5944,Time out,170
+6320,Accept,236
+6320,Reject,46
+17905,Accept,515
+17905,Reject,182
+17905,Time out,7
+18183,Accept,3079
+18183,Reject,2644
+18183,Time out,49
+19161,Accept,2214
+19161,Reject,1296
+19161,Time out,31
+25432,Accept,152
+25432,Reject,103
+25432,Time out,1
+29525,Accept,2736
+29525,Reject,2065
+29525,Time out,9
+30921,Accept,1957
+30921,Reject,259
+30921,Time out,7
+30925,Accept,4292
+30925,Reject,1978
+30925,Time out,41
+31224,Reject,2744
+31224,Accept,2329
+31224,Time out,44
+31225,Accept,5439
+31225,Reject,1230
+31225,Time out,49
+31228,Accept,36
+31228,Reject,14
+31230,Reject,2952
+31230,Accept,1463
+31230,Time out,93
+31388,Accept,2098
+31388,Reject,1324
+31388,Time out,103
+31859,Accept,1326
+31859,Reject,894
+31859,Time out,101
+31893,Reject,35
+31893,Accept,33
+31893,Time out,6
+32149,Reject,2649
+32149,Accept,1152
+32149,Time out,103
+32153,Accept,3846
+32153,Reject,882
+32153,Time out,3
+32399,Accept,839
+32399,Reject,612
+32399,Time out,21
+32401,Accept,2316
+32401,Reject,396
+32401,Time out,9
+32644,Accept,2939
+32644,Reject,1396
+32644,Time out,16
+32646,Reject,2116
+32646,Accept,2012
+32646,Time out,15
+32648,Accept,2226
+32648,Reject,1144
+32648,Time out,143
+32650,Accept,2526
+32650,Reject,2172
+32650,Time out,74
+32651,Accept,3927
+32651,Reject,1200
+32651,Time out,30
+32652,Accept,3047
+32652,Reject,1423
+32652,Time out,7
+32654,Accept,2333
+32654,Reject,1029
+32654,Time out,117
+32656,Accept,186
+32656,Reject,78
+32656,Time out,7
+32657,Accept,274
+32657,Reject,91
+32659,Accept,2874
+32659,Reject,711
+32659,Time out,3
+32661,Accept,3505
+32661,Reject,726
+32661,Time out,40
+32662,Accept,255
+32662,Reject,122
+32662,Time out,6
+32663,Reject,1427
+32663,Accept,1156
+32663,Time out,206
+32792,Reject,1769
+32792,Accept,1553
+32792,Time out,107
+32797,Reject,1335
+32797,Accept,1186
+32797,Time out,30
+32876,Accept,4773
+32876,Reject,1722
+32876,Time out,10
+32878,Accept,2386
+32878,Reject,1263
+32878,Time out,55
+32880,Accept,6091
+32880,Reject,1745
+32880,Time out,178
+32883,Accept,3518
+32883,Reject,893
+32883,Time out,16
+32887,Accept,3928
+32887,Reject,3320
+32887,Time out,187
+32889,Accept,2222
+32889,Reject,598
+32889,Time out,31
+33326,Accept,1927
+33326,Reject,1303
+33326,Time out,21
+33644,Accept,441
+33644,Reject,184
+33644,Time out,6
+33646,Accept,555
+33646,Reject,231
+33646,Time out,15
+33647,Accept,1873
+33647,Reject,1204
+33647,Time out,85
+33686,Accept,1185
+33686,Reject,432
+33686,Time out,19
+33687,Accept,1250
+33687,Reject,750
+33687,Time out,8
+33688,Accept,2127
+33688,Reject,1202
+33688,Time out,15
+33769,Accept,1693
+33769,Reject,634
+33769,Time out,60
+33772,Accept,498
+33772,Reject,167
+33772,Time out,3
+33775,Reject,494
+33775,Accept,439
+33775,Time out,2
+33776,Accept,2396
+33776,Reject,973
+33776,Time out,6
+34243,Accept,1638
+34243,Reject,1295
+34243,Time out,7
+34246,Accept,1499
+34246,Reject,1001
+34246,Time out,38
+35032,Accept,125
+35032,Reject,102
+36547,Accept,2268
+36547,Reject,1965
+36547,Time out,46
+36548,Accept,2461
+36548,Reject,1588
+36548,Time out,34
+75204,Accept,1544
+75204,Reject,488
+75204,Time out,9

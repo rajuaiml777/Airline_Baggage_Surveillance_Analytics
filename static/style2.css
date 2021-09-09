@@ -1,0 +1,37 @@
+/* H1 heading */
+h1 {
+    background-color: rgb(116 76 130);
+}
+/* Side-Bar */
+.css-hby737 {
+    background-color: rgb(116 76 130);
+}
+/* Option Titles */
+.css-1d81imo {
+    font-size: 0.9rem;
+    background: black;
+}
+/* Button */
+div.stButton > button:hover{
+              color: black;
+              cursor: pointer;
+}
+div.stButton > button:first-child{
+                  background-color: #F63366;
+}
+/* Main Menu */
+#MainMenu {
+           visibility: hidden;
+}
+/* Footer */
+footer {
+        visibility: hidden;
+}
+footer:after {
+              visibility: visible;
+              display: block;
+              position: relative;
+              text-align: center;
+              padding: 15px;
+              top: 2px;
+}
