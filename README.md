@@ -9,9 +9,13 @@ This project focuses on developing analytics solutions for airline baggage surve
 Ensure you have the following Python libraries installed:
 
 numpy
+
 pandas
+
 matplotlib
+
 scikit-learn
+
 seaborn
 
 # Acknowledgments
