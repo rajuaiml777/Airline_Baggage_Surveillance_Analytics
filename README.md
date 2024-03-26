@@ -8,15 +8,17 @@ This project focuses on developing analytics solutions for airline baggage surve
 
 Ensure you have the following Python libraries installed:
 
-numpy
+pandas==1.3.1
 
-pandas
+scikit-learn==0.23.2
 
-matplotlib
+streamlit==0.86.0
 
-scikit-learn
+pillow~=8.3.1
 
-seaborn
+matplotlib~=3.4.3
+
+seaborn~=0.11.2
 
 # Acknowledgments
 
