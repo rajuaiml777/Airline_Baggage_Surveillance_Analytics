@@ -25,41 +25,47 @@ To get started with ShopAssist AI, follow these steps:
 2. **Install dependencies:**
 
     Navigate to the project directory and install the required Python dependencies using pip:
-```   
-pip install -r requirements.txt
-```
+    ```   
+    pip install -r requirements.txt
+    ```
 
 3. **Prepare Data:**
 
-Ensure you have the necessary datasets for baggage handling processes. If not, gather or generate relevant datasets to analyze baggage handling operations.
+    Ensure you have the necessary datasets for baggage handling processes. If not, gather or generate relevant datasets to analyze baggage handling operations.
 
 4. **Run the Application:**
 
-Launch the Streamlit application to interact with the analytics dashboard:
-```
-streamlit run app.py
-```
-5. ### Explore Analytics:
+    Launch the Streamlit application to interact with the analytics dashboard:
+    ```
+    streamlit run app.py
+    ```
+5. **Explore Analytics:**
 
-Explore the analytics dashboard to evaluate the performance of baggage handling processes and track the number of bags scanned for each airline.
+    Explore the analytics dashboard to evaluate the performance of baggage handling processes and track the number of bags scanned for each airline.
 
-6. ### Adjust Parameters:
+6. **Adjust Parameters:**
 
-Customize parameters and settings within the application to fine-tune analytics and obtain specific insights.
+    Customize parameters and settings within the application to fine-tune analytics and obtain specific insights.
 
-7. ### Interpret Results:
+7. **Interpret Results:**
 
-Analyze the results obtained from the dashboard to identify areas for improvement in baggage handling operations and enhance security measures.
+    Analyze the results obtained from the dashboard to identify areas for improvement in baggage handling operations and enhance security measures.
 
-8. ### Contribute and Extend:
+8. **Contribute and Extend:**
 
-Feel free to contribute to the project or extend its functionalities to address additional requirements or enhance existing features.
+    Feel free to contribute to the project or extend its functionalities to address additional requirements or enhance existing features.
 
-9. ### Provide Feedback:
+9. **Provide Feedback:**
 
-Your feedback is valuable! Share your thoughts, suggestions, or issues encountered while using the application to help improve its usability and effectiveness.
+    Your feedback is valuable! Share your thoughts, suggestions, or issues encountered while using the application to help improve its usability and effectiveness.
 
-10. ### Deploy (Optional):
+10. **Deploy (Optional):**
 
-Optionally, deploy the application to a server or cloud platform for broader accessibility and usage.
+    Optionally, deploy the application to a server or cloud platform for broader accessibility and usage.
+
+    
+## Acknowledgments
+
+This project aims to contribute to enhancing airline security and baggage handling processes. Special thanks to the contributors and developers of the Python libraries used in this project.
+
 
