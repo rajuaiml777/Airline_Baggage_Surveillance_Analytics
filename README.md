@@ -6,11 +6,18 @@ This project aims to develop analytics solutions for airline baggage surveillanc
 
 - Evaluate the performance of operators for baggage screening.
 - Determine the number of bags scanned for each airline.
+  
+## CRISP-ML Methodology
+
+![CRISP-ML Methodology](https://github.com/rajuaiml777/Airline_Baggage_Surveillance_Analytics/blob/main/Data/cripmlq.png)
 
 ## Overview
 
 The baggage handling system initiates when the passenger checks in the bag. The bag is weighed and tagged with an IATA barcode, which is used to track it through to its destination. The bag then travels through a conveyor system that performs multiple levels of screening checks, a combination of automated and manual inspection.
 
+## Project Architecture / Data Pipeline
+
+![Project Architecture](https://github.com/rajuaiml777/Airline_Baggage_Surveillance_Analytics/blob/main/Data/arch_airline.png)
 
 ## Getting Started
 
